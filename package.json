@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "Exercise one from Freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francis951/freeCodecampEx1.git"
+  },
+  "author": "Francis Murungi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francis951/freeCodecampEx1/issues"
+  },
+  "homepage": "https://github.com/francis951/freeCodecampEx1#readme"
+}
